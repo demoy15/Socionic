@@ -1,4 +1,6 @@
-﻿namespace Socionic.Models;
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace Socionic.Models;
 
 public class PsychosophyTypes
 {

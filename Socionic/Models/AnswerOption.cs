@@ -2,6 +2,6 @@
 
 public class AnswerOption
 {
-    public Guid Id { get; }
-    public string Value { get; }
+    public Guid Id { get; set; }
+    public string Value { get; set; }
 }
